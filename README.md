@@ -13,6 +13,27 @@
 ### I'm 32 years old Self-taught Full-Stack developer from México.
 
 <br />
+
+### - Languages and Tools...
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+ <img src="./svg/blogs/devto.svg" alt="dev.to" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/js.svg" alt="javascript" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/vue.svg" alt="vuejs" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/angular.svg" alt="angular" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/php.svg" alt="php" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/npm.svg" alt="npm" style="vertical-align:top; margin:4px">    
+ <img src="./svg/dev/aws.svg" alt="aws" style="vertical-align:top; margin:4px">    
+ <img src="./svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:4px">    
+
+
+</p>
+
 <!--
 **eosfelipe/eosfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
