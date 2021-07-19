@@ -10,7 +10,7 @@
 <br/>
 
 ### Hi,
-### I'm 32 years old Self-taught Full-Stack developer from México.
+### I'm 33 years old Self-taught Full-Stack developer from México.
 
 <br/>
 
@@ -22,12 +22,13 @@
   
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/html.svg" alt="html" style="vertical-align:top; margin:4px">    
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/js.svg" alt="javascript" style="vertical-align:top; margin:4px">    
- <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/vue.svg" alt="vuejs" style="vertical-align:top; margin:4px">    
- <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/angular.svg" alt="angular" style="vertical-align:top; margin:4px">    
+ <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/react.svg" alt="react" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/php.svg" alt="php" style="vertical-align:top; margin:4px">    
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:4px">    
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/npm.svg" alt="npm" style="vertical-align:top; margin:4px">    
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/dev/aws.svg" alt="aws" style="vertical-align:top; margin:4px">    
+ <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/devices/bash.svg" alt="bash" style="vertical-align:top; margin:4px">    
  <img src="https://raw.githubusercontent.com/eosfelipe/eosfelipe/master/svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:4px">    
 
 
@@ -44,8 +45,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -53,3 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am currently working on the implementation of JDA in a logistics center
+- 🌱 I’m currently learning nextjs
